@@ -153,7 +153,11 @@ h1 {
   }
 
   .number {
-    transform: translate(0%, 10%);
+    transform: translate(0%, 0%);
+
+    font-size: 5rem;
+    width: 10rem;
+    padding: 1rem 0rem;
   }
 
   header {
@@ -191,7 +195,11 @@ h1 {
   }
 
   .number {
-    transform: translate(0%, 10%);
+    transform: translate(0%, 0%);
+
+    font-size: 5rem;
+    width: 10rem;
+    padding: 1rem 0rem;
   }
 
   header {
